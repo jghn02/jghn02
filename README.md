@@ -5,6 +5,4 @@
 - 📫 How to reach me ... email me jh7012211@gmail.com
 All data engineers or data scientists, plz watch me. I'm going to be the best data professionist in Musinsa.
 <! I hate people who doesn't consider other's thoughts and situations.
-jghn02/jghn02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
